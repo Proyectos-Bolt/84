@@ -1,0 +1,2 @@
+# speedTaximetroFunciona
+Cobro por recorrido
